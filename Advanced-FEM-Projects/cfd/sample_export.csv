@@ -1,0 +1,4 @@
+material,velocity,quantity,value,provenance
+aluminium,low,pressure_drop,12.4,synthetic
+steel,low,pressure_drop,11.8,synthetic
+aluminium,high,pressure_drop,18.1,synthetic

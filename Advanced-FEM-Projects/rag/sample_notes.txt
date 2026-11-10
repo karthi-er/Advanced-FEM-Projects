@@ -1,0 +1,6 @@
+Finite-element models require appropriate boundary conditions and consistent
+units. Check that the input geometry and material properties match the intended
+model before interpreting any numerical output.
+
+Local retrieval can identify passages that share query terms. Lexical matching
+is a simple baseline and may miss relevant passages that use different wording.

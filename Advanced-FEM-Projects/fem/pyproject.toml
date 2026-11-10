@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "axial-bar-fem"
+version = "0.1.0"
+description = "Small 1D axial-bar finite-element demonstration"
+requires-python = ">=3.10"
+
+[tool.setuptools]
+packages = ["axial_fem"]
